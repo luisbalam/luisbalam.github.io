@@ -1,0 +1,26 @@
+.Work {
+    padding: 40px 0;
+    background-color: #2b2b2b;
+    color: white;
+}
+
+.Title {
+    border-bottom: 3px solid green;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+}
+
+.Logo {
+    max-height: 180px;
+    max-width: 200px;
+}
+
+.Description {
+    text-align: justify;
+}
+
+.More {
+    font-size: 25px;
+    float: right;
+    color: white;
+}
